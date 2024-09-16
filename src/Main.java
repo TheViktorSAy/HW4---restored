@@ -92,8 +92,8 @@ public class Main {
 
         if(two <=one &&three <=two)
 
-        {        System.out.println(one);    }
-        else    {        System.out.println(three);    }
+        {System.out.println(one);    }
+        else    {System.out.println(three);    }
 
 
     } }
